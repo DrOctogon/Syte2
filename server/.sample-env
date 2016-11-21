@@ -1,10 +1,10 @@
 
-TZ = 'America/Chicago'
-MONGODB_URI = 'mongodb://localhost:27017/syte'
+TZ = 'America/Los_Angeles'
+MONGODB_URI = 'mongodb://heroku_crln4sr7:b1m34qdsujo4qomd94reqgl9v2@ds159507.mlab.com:59507/heroku_crln4sr7'
 SETUP_ENABLED = true
 
 TWITTER_INTEGRATION_DISABLED = true
-TWITTER_USERNAME = ''
+TWITTER_USERNAME = 'tykrebs'
 TWITTER_CONSUMER_KEY = ''
 TWITTER_CONSUMER_SECRET = ''
 TWITTER_ACCESS_TOKEN_KEY = ''
